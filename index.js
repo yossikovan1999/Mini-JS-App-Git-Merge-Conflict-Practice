@@ -1,7 +1,7 @@
-import { THEME_COLOR } from "./config.js";
+import THEME_COLOR  from "./config.js";
 
 function getHeroTitle() {
-  return "Welcome";
+  return "Welcome to HQ"
 }
 
 console.log("HERO TITLE:", getHeroTitle());
