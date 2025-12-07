@@ -1,0 +1,21 @@
+{
+  "name": "mini_js_app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000i\u0000n\u0000i\u0000-\u0000J\u0000S\u0000-\u0000A\u0000p\u0000p\u0000-\u0000G\u0000i\u0000t\u0000-\u0000M\u0000e\u0000r\u0000g\u0000e\u0000-\u0000C\u0000o\u0000n\u0000f\u0000l\u0000i\u0000c\u0000t\u0000-\u0000P\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yossikovan1999/Mini-JS-App-Git-Merge-Conflict-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/yossikovan1999/Mini-JS-App-Git-Merge-Conflict-Practice/issues"
+  },
+  "homepage": "https://github.com/yossikovan1999/Mini-JS-App-Git-Merge-Conflict-Practice#readme"
+}
